@@ -1,0 +1,7 @@
+toggle:
+  nazwa_funkjonalnosci:
+    enabled: false
+    author: <np: mkopyt>
+    date:<np: „27.01.2019”>
+    sprint: <sprint_no teraz jest 1>
+    jira: <jira_task_id np „[LT-5]”>
